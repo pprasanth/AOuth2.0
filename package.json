@@ -1,0 +1,26 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "OAuth is the library supports social connects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprasanth/OAuth.git"
+  },
+  "keywords": [
+    "OAuth",
+    "Facebook",
+    "Instagram",
+    "and",
+    "Twitter"
+  ],
+  "author": "Prasanth P <prasaanth.p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pprasanth/OAuth/issues"
+  },
+  "homepage": "https://github.com/pprasanth/OAuth#readme"
+}
